@@ -1,0 +1,5 @@
+Ventaja cuántica de una promesa en ANGULARJS
+http://www.josoroma.com/javascript-promises
+
+Cómo Aprender AngularJS - Tu Sherpa de AngularJS
+http://raulexposito.com/documentos/como-aprender-angularjs/

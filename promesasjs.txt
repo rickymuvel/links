@@ -1,0 +1,20 @@
+Librería q, para crear promesas:
+https://github.com/kriskowal/q
+
+Más sobre promesas:
+http://cevichejs.com/6-xhr
+
+Más promesas en Javascript:
+http://slides.com/juanramb/promesas-en-javascript
+
+Inicio rápido: uso de promesas (HTML)
+https://msdn.microsoft.com/es-es/library/windows/apps/hh700339.aspx
+
+Los programadores no necesitamos vanas promesas
+http://gimenete.tumblr.com/post/47528626262/los-programadores-no-necesitamos-vanas-promesas
+
+Javascript: Promises y eventos
+http://www.sopadebits.com/javascript-promise-callback-events
+
+Promesas: Organiza tu código Javascript/Coffeescript
+http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=promesas
